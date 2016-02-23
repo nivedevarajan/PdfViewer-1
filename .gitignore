@@ -12,6 +12,9 @@
 # Maven output directory
 target/
 
+# Old jar output directory
+jar/
+
 # Package Files #
 *.jar
 *.war

@@ -1,2 +1,0 @@
-Main-Class: com/pilotfish/eip/modules/pdfviewer/Main
-Class-Path: pdfbox-1.8.10.jar
