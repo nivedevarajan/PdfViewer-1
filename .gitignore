@@ -8,6 +8,7 @@
 
 # IntelliJ Files
 .idea/
+*.iml
 
 # Maven output directory
 target/
